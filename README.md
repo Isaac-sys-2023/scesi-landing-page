@@ -5,3 +5,5 @@ Este repositorio contiene el codigo de ejemplo de las clases GIT imaprtidas por 
 !(./assets/logo_scesi_dark_mode.svg)[Logo SCESI]
 
 Divierte viendo nuestro codigo :D
+
+# Cambio innecesario
