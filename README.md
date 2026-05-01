@@ -39,6 +39,10 @@ cd scesi-landing-page
 
 # 3. Abrir en tu editor de código (ej. VS Code)
 code .
+```
 
 
 # No worries, i corrected it :)
+---
+
+Ejemplo de contribución al Open Source GH :)
